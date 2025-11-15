@@ -14,4 +14,8 @@ coverage
 *.test.js
 *.spec.ts
 *.spec.js
-attached_assets
+server
+README.md
+replit.md
+design_guidelines.md
+DEPLOYMENT.md
