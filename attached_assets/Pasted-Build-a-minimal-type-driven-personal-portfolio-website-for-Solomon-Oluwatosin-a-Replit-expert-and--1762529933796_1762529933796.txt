@@ -1,0 +1,98 @@
+Build a minimal, type-driven personal portfolio website for Solomon Oluwatosin, a Replit expert and lovable builder  featuring About, Work, and Contact sections.
+Focus on clean typography, generous whitespace, and warm personality through subtle motion and friendly copy.
+
+🧩 Tech Stack & Setup
+
+Framework: Next.js (App Router) or React + Vite.
+
+Styling: Tailwind CSS with a custom minimalist theme.
+
+Animations: Framer Motion for smooth fades and scroll-based reveals.
+
+Deployment: Auto-deploy on Replit hosting, optimized for performance (load time <2s).
+
+Include a clear README.md with instructions for customization.
+
+🎨 Design System
+
+Layout: Type-first, airy, modular grid.
+
+Colors: brown base, soft neutrals, and warm accent tones (e.g. amber or violet).
+
+Typography: Pair a rounded sans-serif (like Inter or Satoshi) with a subtle mono for accents.
+
+Mood: Friendly, approachable, yet professional — a builder’s studio vibe.
+
+🧱 Site Structure
+
+Home / About
+
+Hero text: “Hey, I’m Solomon Oluwatosin  a Replit expert who loves building beautiful, useful things on the web.”
+
+Subtext: “I turn ideas into interactive, shareable, and scalable projects  one Repl at a time.”
+
+Add a smiling avatar or abstract geometric portrait.
+
+Work
+
+Showcase 3–25 featured Replit projects or experiments.
+
+Auto-generate hero visuals (mock device frames, app previews, or AI-generated renders) based on project tags or palette.
+
+End with a mosaic gallery grid for visual variety — hover to reveal project tags or short blurbs.
+
+Contact
+
+Simple, friendly form: Name, Email, Message.
+
+Add a short line: “Want to build something together? Let’s make it fun.”
+
+Include social icons: Replit, GitHub, LinkedIn, and Email.
+
+Include a “Download One-Pager PDF” button that generates a beautiful summary of About + Work + Contact info with AI-generated cover art.
+
+🧾 One-Pager PDF Generator
+
+Generate an elegant PDF titled solomon_oluwatosin_portfolio.pdf.
+
+Include:
+
+About summary (as Replit expert).
+
+2–3 highlighted projects.
+
+Contact details + QR code linking to site.
+
+Abstract cover art using site color palette.
+
+⚙️ Requirements
+
+Fully responsive and accessible.
+
+Meta tags and OG data for SEO.
+
+Lighthouse score ≥ 90.
+
+Include favicon and social share image.
+
+🌈 Stretch Goals
+
+Add dark mode toggle with smooth transitions.
+
+Animate section headers on scroll.
+
+Include a mini Easter egg — something playful that reflects Solomon’s “lovable” builder personality.
+
+✅ Deliverables
+
+Live, deployed Replit site.
+
+Source code (pages, components, assets, styles).
+
+Downloadable one-pager PDF.
+
+Clean documentation (README + component overview).
+
+Prompt Intent:
+Create a warm, minimalist portfolio that feels handcrafted — equal parts technical and human.
+Once finished, provide the live preview link and a repository breakdown.

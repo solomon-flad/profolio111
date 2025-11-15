@@ -1,0 +1,17 @@
+node_modules
+.git
+.env
+.env.*
+!.env.example
+*.log
+.replit
+replit.nix
+.config
+.cache
+.upm
+coverage
+*.test.ts
+*.test.js
+*.spec.ts
+*.spec.js
+attached_assets
