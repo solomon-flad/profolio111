@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import profileImage from "@assets/WhatsApp Image 2025-11-06 at 11.44.53 AM_1762529953488.jpeg";
+import profileImage from "@assets/WhatsApp Image 2025-11-15 at 3.35.34 PM_1763249797897.jpeg";
 
 export default function HeroSection() {
   return (
